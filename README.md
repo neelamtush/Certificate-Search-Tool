@@ -37,15 +37,15 @@ Finding specific content in a folder full of PDFs can be tedious. This tool is p
 ## How to Use 📖
 
 1. Run the Application
-- Start the Python script to open the user-friendly interface.
+    - Start the Python script to open the user-friendly interface.
 2. Select Your Folder
-- Click the “Browse” button to choose the folder where your PDFs are stored.
+    - Click the “Browse” button to choose the folder where your PDFs are stored.
 3. Enter Your Search Term
-- Type the keyword, name, or phrase you’re looking for in the text box.
+    - Type the keyword, name, or phrase you’re looking for in the text box.
 4. Search and View Results
-- Click “Search” to scan all PDFs in the folder. Matching files will appear in a list below.
+    - Click “Search” to scan all PDFs in the folder. Matching files will appear in a list below.
 5. Open Files
-- Select a result and open it directly from the app to review its content.
+    - Select a result and open it directly from the app to review its content.
 ## Requirements 📋
 
 - Python 3.8 or later
